@@ -1,14 +1,12 @@
 <!-- _coverpage.md -->
 
-# Product Development, An Empirical Approach <small>0.1</small>
+# Empirical Product Development <small>0.1</small>
+## About building tech products people love. <br>
 
-## Learn how to build tech products people love.
+<br>
+<br>
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
-
-[Get Started](#headline)
+[Get Started](/foreword)
 
 <!-- background color -->
 

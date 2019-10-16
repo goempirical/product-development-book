@@ -1,0 +1,8 @@
+- [Home](/)
+- [Foreword](foreword.md)
+- [Intro](intro.md)
+- [Values](values.md)
+- [Philosophy](philosophy.md)
+- [Process](process.md)
+- [About](about.md)
+- [References](references.md)
